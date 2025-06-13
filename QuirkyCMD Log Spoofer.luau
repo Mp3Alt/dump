@@ -11,6 +11,9 @@
 
     If you want to use this script, USE A VPN. They log ips. 💩 (eww stinky)
 
+    Apparently, they are making a paid version. (I love paid versions of skidded script!!)
+    So when it's made, I'll bypass it, and upload the bypass here. (Open sourced ofc)
+
     (This is the first time I've published a script with comments like this, tell me what you think!)
 ]]
 
