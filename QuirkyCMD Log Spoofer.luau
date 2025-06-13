@@ -38,7 +38,7 @@ fakeRemote.Parent = ReplicatedStorage
 --<<
 
 -->> Create a function that handles the FireServer calls.
-local function fireServerHandler(_, ...): any
+local function fireServerHandler(_, ...): nil
     local args = {...}
     local instance = args[1]
 
